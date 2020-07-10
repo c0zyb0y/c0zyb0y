@@ -4,8 +4,8 @@
   <br><br>
   <samp>
 I'm Phupha.An IT Student from Bangkok, Thailand. I’m currently learning an Artificial Intelligence🤖
-    <a href="https://instagram/waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-     <br><br>Contact me on <a href="https://www.instagram.com/___bx_x/?hl=th">Instagram</a>
+    <a href="https://www.instagram.com/___bx_x/?hl=th"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+     <br><br> <a href="https://www.instagram.com/___bx_x/?hl=th"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
   </samp>
 </p>
 
