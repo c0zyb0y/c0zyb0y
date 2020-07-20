@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-I'm Phupha.An IT Student from Bangkok, Thailand. I’m currently learning an Artificial Intelligence🤖 
+I'm PooH.An IT Student from Bangkok, Thailand. I’m currently learning an Artificial Intelligence🤖 , Python, Data Structure And interested in Cyber Security.Nice to meet you .
      <br><br>
   </samp>
 </p>
