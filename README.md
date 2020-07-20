@@ -5,8 +5,6 @@
   <samp>
 I'm Phupha.An IT Student from Bangkok, Thailand. I’m currently learning an Artificial Intelligence🤖 
      <br><br>
-    <p align="center">
-      <a href="https://www.instagram.com/___bx_x/?hl=th"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
   </samp>
 </p>
 
